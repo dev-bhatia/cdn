@@ -4,9 +4,9 @@ This repository contains some CSS and web assets that can be accessed with jsDel
 
 | Features                                                 | Use                                                                 |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Favicons](favicons/README.md)                           | Colored circle shaped favicon ico files                             |
-| [BootstrapYouTubeModal](BootstrapYouTubeModal/README.md) | Embed a YouTube Video in a Bootstrap Modal to pause on modal close. |
-| [responsiveRender](responsiveRender/README.md)           | Quick responsive rendering for Phones, Tablets, & Desktops          |
+| [Favicons](favicons/)                           | Colored circle shaped favicon ico files                             |
+| [bootstrapYouTubeModal](bootstrapYouTubeModal/) | Embed a YouTube Video in a Bootstrap Modal to pause on modal close. |
+| [responsiveRender](responsiveRender/)           | Quick responsive rendering for Phones, Tablets, & Desktops          |
 
 ## Disclaimer
 
