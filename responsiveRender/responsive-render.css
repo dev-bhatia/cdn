@@ -1,0 +1,36 @@
+/* PHONE */
+@media (min-width: 0px) {
+    .phone {
+      display: block !important;
+    }
+    .tablet {
+      display: none !important;
+    }
+    .desktop {
+      display: none !important;
+    }
+  }
+  /* TABLET */
+  @media (min-width: 992px) {
+    .phone {
+      display: none !important;
+    }
+    .tablet {
+      display: block !important;
+    }
+    .desktop {
+      display: none !important;
+    }
+  }
+  /* DESKTOP */
+  @media (min-width: 992px) {
+    .phone {
+      display: none !important;
+    }
+    .tablet {
+      display: none !important;
+    }
+    .desktop {
+      display: block !important;
+    }
+  }
