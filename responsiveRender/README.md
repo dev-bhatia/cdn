@@ -5,7 +5,7 @@
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@main/responsiveRender/responsive-render.css"
+  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@main/responsiveRender/responsiveRender.css"
 />
 ```
 
