@@ -3,9 +3,10 @@
 ### jsDelivr Link
 
 ```html
+<!-- YOUTUBE BOOTSTRAP MODAL -->
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@main/boostrapYouTubeModal/bs-yt-modal.css"
+  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@master/bootstrapYouTubeModal/bs-yt-modal.css"
 />
 ```
 

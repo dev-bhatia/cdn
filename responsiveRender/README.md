@@ -3,6 +3,7 @@
 ### jsDelivr Link
 
 ```html
+<!-- RESPONSIVE RENDER -->
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@main/responsiveRender/responsiveRender.css"

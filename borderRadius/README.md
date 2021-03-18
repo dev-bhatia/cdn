@@ -15,9 +15,10 @@ Support rounding of elment border radius for 10px, 15px, and 25px.
 ### jsDelivr Link
 
 ```html
+<!-- BORDER RADIUS -->
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@main/borderRadius/borderRadius.css"
+  href="https://cdn.jsdelivr.net/gh/dev-bhatia/cdn@master/borderRadius/borderRadius.css"
 />
 ```
 
