@@ -14,77 +14,77 @@
 }
 
 .brtl-10 {
-  border-top-left-radius: 10px;
+  border-top-left-radius: 10px !important;
 }
 
 .brtr-10 {
-  border-top-right-radius: 10px;
+  border-top-right-radius: 10px !important;
 }
 
 .brbl-10 {
-  border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 10px !important;
 }
 
 .brbr-10 {
-  border-bottom-right-radius: 10px;
+  border-bottom-right-radius: 10px !important;
 }
 /* 15 Pixels */
 .br-15 {
-  border-radius: 15px;
+  border-radius: 15px !important;
 }
 
 .brt-15 {
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
 }
 
 .brb-15 {
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
 }
 
 .brtl-15 {
-  border-top-left-radius: 15px;
+  border-top-left-radius: 15px !important;
 }
 
 .brtr-15 {
-  border-top-right-radius: 15px;
+  border-top-right-radius: 15px !important;
 }
 
 .brbl-15 {
-  border-bottom-left-radius: 15px;
+  border-bottom-left-radius: 15px !important;
 }
 
 .brbr-15 {
-  border-bottom-right-radius: 15px;
+  border-bottom-right-radius: 15px !important;
 }
 /* 25 Pixels */
 .br-25 {
-  border-radius: 25px;
+  border-radius: 25px !important;
 }
 
 .brt-25 {
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
 }
 
 .brb-25 {
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px !important;
+  border-bottom-right-radius: 25px !important;
 }
 
 .brtl-25 {
-  border-top-left-radius: 25px;
+  border-top-left-radius: 25px !important;
 }
 
 .brtr-25 {
-  border-top-right-radius: 25px;
+  border-top-right-radius: 25px !important;
 }
 
 .brbl-25 {
-  border-bottom-left-radius: 25px;
+  border-bottom-left-radius: 25px !important;
 }
 
 .brbr-25 {
-  border-bottom-right-radius: 25px;
+  border-bottom-right-radius: 25px !important;
 }
