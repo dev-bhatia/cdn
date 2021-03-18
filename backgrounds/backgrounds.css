@@ -1,0 +1,18 @@
+.glass-bg {
+  background-color: #fafafaa7 !important;
+  backdrop-filter: blur(100px) !important;
+}
+
+.bluepink-bg {
+  background: linear-gradient(184deg, #ffbeda 0%, #94bbe97e 25%) !important;
+}
+
+.pearl-bg {
+  background: linear-gradient(
+    312deg,
+    #833ab41a 0%,
+    #fd1d1d0d 50%,
+    #2f57fd0d 72%,
+    rgba(252, 17#fcb0451a)
+  ) !important;
+}
