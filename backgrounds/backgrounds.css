@@ -10,9 +10,9 @@
 .pearl-bg {
   background: linear-gradient(
     312deg,
-    #833ab41a 0%,
-    #fd1d1d0d 50%,
-    #2f57fd0d 72%,
-    rgba(252, 17#fcb0451a)
+    rgba(131, 58, 180, 0.1) 0%,
+    rgba(253, 29, 29, 0.05) 50%,
+    rgba(47, 87, 253, 0.05) 72%,
+    rgba(252, 176, 69, 0.1) 100%
   ) !important;
 }
